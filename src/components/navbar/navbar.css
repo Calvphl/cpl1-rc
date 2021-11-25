@@ -62,6 +62,11 @@
     cursor: pointer;
 }
 
+.gpt3__navbar-sign button:hover{
+    background: #eb411b;
+    transition: .2s;
+}
+
 .gpt3__navbar-menu{
     margin-left: 1rem;
 
@@ -92,7 +97,7 @@
 }
 
 .gpt3__navbar-menu_container p{
-    margin: 1.2rem 0;
+    margin: 1rem 0;
 }
 
 .gpt3__navbar-menu_container-links-sign{
